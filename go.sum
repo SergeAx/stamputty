@@ -1,3 +1,5 @@
+github.com/akavel/rsrc v0.10.2 h1:Zxm8V5eI1hW4gGaYsJQUhxpjkENuG91ki8B4zCrvEsw=
+github.com/akavel/rsrc v0.10.2/go.mod h1:uLoCtb9J+EyAqh+26kdrTgmzRBFPGOolLWKpdxkKq+c=
 github.com/dblohm7/wingoes v0.0.0-20231019175336-f6e33aa7cc34 h1:FBMro26TLQwBk+n4fbTSmSf3QUKb09pvW4fz49lxpl0=
 github.com/dblohm7/wingoes v0.0.0-20231019175336-f6e33aa7cc34/go.mod h1:6NCrWM5jRefaG7iN0iMShPalLsljHWBh9v1zxM2f8Xs=
 github.com/dblohm7/wingoes v0.0.0-20250822163801-6d8e6105c62d h1:QRKpU+9ZBDs62LyBfwhZkJdB5DJX2Sm3p4kUh7l1aA0=

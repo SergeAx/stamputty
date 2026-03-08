@@ -2,6 +2,8 @@ module serge.ax/go/stamputty
 
 go 1.25.7
 
+tool github.com/akavel/rsrc
+
 require (
 	github.com/tailscale/walk v0.0.0-20251016200523-963e260a8227
 	github.com/tailscale/win v0.0.0-20250627215312-f4da2b8ee071
