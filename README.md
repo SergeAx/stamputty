@@ -97,6 +97,12 @@ go tool rsrc -manifest stamputty.manifest -arch arm64 -o rsrc_windows_arm64.syso
 * This project is not affiliated with, or endorsed by, the official PuTTY
   project.
 
+## ToDo
+
+* [ ] Automate releases with GitHub actions, including building binaries
+* [ ] Annotate some cryptic settings, like WTF is Colour0 or Colour5?
+* [ ] Custom icon
+* [ ] Localization?
 
 ## License
 
